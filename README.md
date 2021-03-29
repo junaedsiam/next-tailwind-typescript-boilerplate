@@ -1,2 +1,7 @@
 # NextJS , Tailwind, Typescript starter template
-Clone the repository. Run `yarn install` to install & `yarn dev` for run the app. 
+Use `yarn` (recommended) or `npm` to initiate the installation process
+
+```
+yarn install
+yarn dev
+```
